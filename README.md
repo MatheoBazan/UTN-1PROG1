@@ -1,12 +1,12 @@
-#💻 Programación 1
+# 💻 Programación 1
 Tecnicatura Universitaria en Programación
 📍 Universidad Tecnológica Nacional
 
-##✨ Estudiante
+## ✨ Estudiante
 -Nombre: Bazan, Matheo
 -Comisión: M2025-1
 
-##📂 Descripción del Repositorio
+## 📂 Descripción del Repositorio
 Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de Programación 1.
 
 📌 Estructura del repositorio:
