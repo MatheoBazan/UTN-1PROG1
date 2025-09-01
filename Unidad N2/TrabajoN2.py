@@ -14,7 +14,7 @@ if nota >=6:
 else:
     print('Desaprobado')
 
-#2) Escribir un programa que permita ingresar solo números pares.
+#3) Escribir un programa que permita ingresar solo números pares.
 print('Ejercicio N3')
 numero = int(input("Ingrese un numero: "))
 if numero % 2 == 0:
@@ -106,7 +106,7 @@ else:
 
 #9) Escribir un programa que pida al usuario la magnitud de un terremoto y clasifique la 
 #magnitud en escala ritcher
-print('Ejercicio N8')
+print('Ejercicio N9')
 
 magnitud = float(input("Ingresa la magnitud del terremoto: "))
 
